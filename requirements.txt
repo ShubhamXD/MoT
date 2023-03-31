@@ -1,0 +1,3 @@
+facebook-scraper
+apify-client # https://docs.apify.com/api/client/python/
+facebook-page-scraper # https://pypi.org/project/facebook-page-scraper/
